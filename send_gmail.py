@@ -77,15 +77,3 @@ def main(argv):
 if __name__ == '__main__':
    #passes it the cmdline args after the 1st one, since that's the filename
    main(sys.argv[1:])
-
-
-
-
-
-
-
-
-
-   
-
-
